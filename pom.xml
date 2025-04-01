@@ -11,7 +11,6 @@
     <modules>
         <module>exercise1</module>
         <module>exercise2</module>
-        <module>exercise3</module>
     </modules>
 
     <properties>
